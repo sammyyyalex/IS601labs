@@ -1,0 +1,28 @@
+div {
+    height: 200px;
+    width: 200px;
+}
+
+#Box1 {
+   background-color: powderblue; 
+   padding: 20px;
+   border: solid 10px;
+
+}
+
+#Box2 {
+    background-color:  #ddccff; 
+    border: solid; 
+    border-width: 20px 10px 20px 10px;
+    margin-left: 260px;
+ }
+
+ #Box3 {
+    background-color:  #ffe6cc;
+    border: solid 10px;
+    margin-left: 480px;
+ }
+
+ p{
+    margin: 0;
+ }
